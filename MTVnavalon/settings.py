@@ -55,7 +55,7 @@ ROOT_URLCONF = 'MTVnavalon.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\Users\Santy1\Desktop\MTVNavalon\Templates'],
+        'DIRS': [r'.\Templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
